@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: ####Nursing Documentation Project
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Nik Coventry. You need to know that:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am a nurse
+- I am extremely keen that we deliver a fantastic digital solution for our nursing assessments and care plans using user centred design
 
-What else do you need?
+Anything else?
 
-### My story
+### Mobile working
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Our new development will be accessed from mobile phones and tablets so that you can document in real time with the patient,[awesome](https://nurseslabs.com/wp-content/uploads/2015/03/reactiongifs-54.gif)
